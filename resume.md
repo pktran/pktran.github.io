@@ -9,6 +9,7 @@ I am a first generation college student excited to kickstart my career in Softwa
 - Institute of Protein Design (2018 - Current)
 
 ## University of Washington (Seattle, Wa)  
+[University of Washington][School Website] 
 
 **Bacherlor of Arts: Geography Data Science** (2018 - 2022)
 
