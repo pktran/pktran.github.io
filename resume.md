@@ -9,9 +9,5 @@ I am a first generation college student excited to kickstart my career in Softwa
 - Institute of Protein Design (2018 - Current)
 
 ## University of Washington (Seattle, Wa)  
-[University of Washington][School Website] 
-
 - Alpha Kappa Delta Phi Member
 - Direct Research Group with HCDE
-
-[University of Washington]: https://www.washington.edu/
