@@ -11,8 +11,6 @@ I am a first generation college student excited to kickstart my career in Softwa
 ## University of Washington (Seattle, Wa)  
 [University of Washington][School Website] 
 
-**Bacherlor of Arts: Geography Data Science** (2018 - 2022)
-
 - Alpha Kappa Delta Phi Member
 - Direct Research Group with HCDE
 
