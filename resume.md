@@ -6,7 +6,7 @@
 
 I am a first generation college student excited to kickstart my career in Software Engineering! I am a senior at the University of Washington majoring in Geography: Data Science with focus on software engineering and data science!
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dataquest.io%2Fblog%2Fwhat-is-data-science%2F&psig=AOvVaw2mBRDZMTcq7lCk8ofSFWyK&ust=1649557810046000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjw0-33hfcCFQAAAAAdAAAAABAZ" alt="engineering">
+![Data Science](/datascience.png)
 
 ## Work Experience (only last 10 years)
 - Institute of Protein Design (2018 - Current)
