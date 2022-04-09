@@ -1,13 +1,25 @@
-# Phuong Tran
-oliviakttran@gmail.com
 
-# Summary
+# Phuong Tran
+<oliviakttran@gmail.com>
+
+## Summary
 
 I am a first generation college student excited to kickstart my career in Software Engineering! I am a senior at the University of Washington majoring in Geography: Data Science with focus on software engineering and data science!
 
-# Work Experience (only last 10 years)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dataquest.io%2Fblog%2Fwhat-is-data-science%2F&psig=AOvVaw2mBRDZMTcq7lCk8ofSFWyK&ust=1649557810046000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjw0-33hfcCFQAAAAAdAAAAABAZ" alt="engineering">
+
+## Work Experience (only last 10 years)
 - Institute of Protein Design (2018 - Current)
 
-## University of Washington (Seattle, Wa)  
+## University of Washington (Seattle, Wa) 
+
+[UW Main Website](https://www.washington.edu/).
+
 - Alpha Kappa Delta Phi Member
-- Direct Research Group with HCDE
+- Direct Research Group with [HCDE](https://www.hcde.washington.edu/)
+
+
+### Favorite Quotes
+>  "All life is an experiment. The more experiments you make the better."
+>  -Ralph Waldo Emerson.
+
